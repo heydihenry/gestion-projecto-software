@@ -142,3 +142,6 @@ MIT - Libre para uso educativo y comercial.
 ---
 
 **¿Listo para empezar?** 🚀 Revisa los [Issues](link-a-issues) y elige tu primera tarea.
+
+## Documentation
+- [Crear Glosario de Términos](docs/requisitos/glosario.md)
